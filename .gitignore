@@ -1,0 +1,7 @@
+*.app
+*.xcodeproj
+obj
+.vscode
+*.code-workspace
+*.DS_Store
+
